@@ -5,7 +5,7 @@
 </div>
 
 # 1. Description
-HA House Rocket é uma empresa fictícia que trabalha com compra e venda. Quer encontrar as melhores oportunidades de negócio  a minha estratégia é comprar casas em ótimas condições a preços baixos e vender as propriedades com preços mais elevados. Os atributos das casas as tornam mais ou menos atrativas, influenciando na atratividade dos imóveis e consequentemente no seu preço. As perguntas a serem respondidas são:
+House Rocket é uma empresa fictícia que trabalha com compra e venda. Quer encontrar as melhores oportunidades de negócio  a minha estratégia é comprar casas em ótimas condições a preços baixos e vender as propriedades com preços mais elevados. Os atributos das casas as tornam mais ou menos atrativas, influenciando na atratividade dos imóveis e consequentemente no seu preço. As perguntas a serem respondidas são:
 
 1.Quais são os imóveis que a empresa deve comprar e por qual preço?<br>
 2. Qual o melhor momento para vender o imóvel e o melhor preço de venda?
