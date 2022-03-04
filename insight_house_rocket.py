@@ -87,7 +87,7 @@ def set_features( data ):
 #=======================================
     # Imóveis sugeridos para compra
 def overview_data( data, geofile ):
-    st.sidebar.title(':house: House Rocket Analytics :house:')
+    st.sidebar.title(':house: House Rocket Analytics' )
     st.sidebar.subheader('https://github.com/Cassiano-Schmeiske')
     st.sidebar.write('Filtros para selecionar os imóveis sugeridos para compra e seu respectivo lucro na transação de venda.')
     st.title(':bar_chart: Imóveis recomendação - Compra:')
