@@ -48,6 +48,8 @@ Variável | Definição
    * Jupyter notebook
    * Python
    * Pycharm
+   * Streamlit
+   * Heroku
  
 # 4. Steps to solve the business problem:
 
