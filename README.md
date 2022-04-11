@@ -2,9 +2,8 @@
 link de acesso ao app: https://cs-insight-house-rocket.herokuapp.com/
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/94291995/162748204-28927af4-6c54-4788-88d3-5d89b470612d.jpg" />
+<img src="https://user-images.githubusercontent.com/94291995/162749175-a9684819-0105-4afb-b4de-12dec1693221.png" />
 </div>
-
 
 # 1. Description
 House Rocket é uma empresa fictícia que trabalha com compra e venda. Quer encontrar as melhores oportunidades de negócio  a minha estratégia é comprar casas em ótimas condições a preços baixos e vender as propriedades com preços mais elevados. Os atributos das casas as tornam mais ou menos atrativas, influenciando na atratividade dos imóveis e consequentemente no seu preço. As perguntas a serem respondidas são:
