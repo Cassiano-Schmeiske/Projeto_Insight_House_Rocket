@@ -2,7 +2,7 @@
 link de acesso ao app: https://cs-insight-house-rocket.herokuapp.com/
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/94291995/151662149-e2931415-f098-49ad-a3b8-3c4631587766.jpg" />
+<img src="https://user-images.githubusercontent.com/94291995/162748204-28927af4-6c54-4788-88d3-5d89b470612d.jpg" />
 </div>
 
 
